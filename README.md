@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou o Fillipe Arrighi
+# Fillipe Arrighi👋
 
 Sou apaixonado por tecnologia e busco atuar como Analista de Segurança da Informação. Tenho um forte foco em gestão de vulnerabilidades, resposta a incidentes e práticas de segurança ofensiva e defensiva. Além da minha base em cibersegurança, também atuo como **Desenvolvedor Fullstack**, o que me permite criar e manter sistemas complexos já com uma mentalidade *security-first* (segurança em primeiro lugar).
 
