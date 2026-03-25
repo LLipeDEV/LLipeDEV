@@ -76,6 +76,7 @@
   <a href="mailto:fillipearrighi3@gmail.com">
     <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=llipe777" />
 </div>
 
 <br>
