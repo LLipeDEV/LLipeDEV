@@ -49,18 +49,7 @@
 <img alt="Knit Framework" src="https://img.shields.io/badge/Knit_(Roblox)-2B2D31?style=for-the-badge&logo=lua&logoColor=white" />
 
 <br><br>
-
-<div align="center">
-  <p>
-    🛡️ <b>Cibersegurança:</b> Ferramentas de segurança ofensiva, proteção de dados, gestão de riscos e análise de vulnerabilidades.
-  </p>
-  <p>
-    🧠 <b>Soft Skills:</b> Liderança de equipas, resolução de problemas, pensamento crítico e empatia com escuta ativa.
-  </p>
-</div>
-
 ---
-
 ### 🚀 Experiência e Projetos em Destaque
 
 * **Véu VTT (Virtual Tabletop):** Líder de Projeto e Desenvolvedor (desde 2026). Liderança multidisciplinar, organização de tarefas e planeamento de features.
