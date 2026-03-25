@@ -1,44 +1,72 @@
 # Fillipe Arrighi 👋
 
-<p align="center">
-  <b>Analista de Segurança da Informação em formação</b> <br>
-  Especialista em unir Cibersegurança com Desenvolvimento Fullstack para criar sistemas seguros por design.
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <h3><b>🇧🇷 Sobre Mim</b></h3>
+      <p>
+        🎯 <b>Foco:</b> Analista de Segurança da Informação (Vulnerabilidades, Incidentes, Ofensiva/Defensiva).<br><br>
+        💡 <b>Diferencial:</b> Desenvolvedor Fullstack (JS/TS/React) - *Security-First* na prática.
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <h3><b>🇺🇸 About Me</b></h3>
+      <p>
+        🎯 <b>Focus:</b> Information Security Analyst (Vulnerabilities, Incidentes, Offensive/Defensive).<br><br>
+        💡 <b>Advantage:</b> Fullstack Developer (JS/TS/React) - *Security-First* implementation.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Minhas Tecnologias
+<h3 align="center">💻 Tecnologias e Conhecimentos</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img align="center" alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div>
 
-<p align="center">
-  <i>Também domino conceitos de Segurança Ofensiva/Defensiva, Gestão de Riscos e Análise de Vulnerabilidades.</i>
-</p>
+<br>
+
+* **Cibersegurança:** Ferramentas de segurança ofensiva, proteção de dados, gestão de riscos e análise de vulnerabilidades.
+* **Habilidades Comportamentais:** Liderança de equipes, resolução de problemas, pensamento crítico, empatia com escuta ativa.
 
 ---
 
-## 🚀 Destaques de Impacto
+### 🚀 Experiência e Projetos em Destaque
 
-* **Liderança e Desenvolvimento:** Head de Projeto e Desenvolvedor Fullstack no sistema **Véu VTT**.
-* **Formação Sólida:** Cursando Técnico em Segurança Cibernética e Programação de Sistemas (SERASA/Senac). Graduado pelo programa **Hackers do Bem**.
+* **Véu VTT (Virtual Tabletop):** Líder de Projeto e Desenvolvedor (desde 2026). Liderança multidisciplinar, organização de tarefas e planejamento de features.
+* **Desenho Mestre:** Implantação de práticas de cibersegurança em plataforma acadêmica (desde 2025).
 
 ---
 
-## 📫 Vamos Conversar?
+### 🎓 Formação Contínua
+
+* **Técnico em Segurança Cibernética:** Centro Universitário Leonardo Da Vinci (Cursando - 2025).
+* **Programação de Sistemas:** Projeto Transforme-se (SERASA, Gerando Falcões e Senac) (Cursando - 2025).
+* **Profissional em Segurança Digital:** Hackers do Bem (2022 - 2024).
+* **Cursos Complementares (Alura):** Python Back-end e Segurança da Informação Ofensiva.
+
+---
+
+<h3 align="center">📫 Como me encontrar</h3>
 
 <div align="center">
   <a href="mailto:fillipearrighi3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
+<br>
+
 <p align="center">
-  🌎 Português (Nativo) | Inglês (Intermediário)
+  <b>Idiomas:</b> Português (Nativo), Inglês (Intermediário).
 </p>
