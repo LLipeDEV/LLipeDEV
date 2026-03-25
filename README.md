@@ -6,14 +6,14 @@
       <h3><b>🇧🇷 Sobre Mim</b></h3>
       <p>
         🎯 <b>Foco:</b> Analista de Segurança da Informação (Vulnerabilidades, Incidentes, Ofensiva/Defensiva).<br><br>
-        💡 <b>Diferencial:</b> Desenvolvedor Fullstack (JS/TS/React) - *Security-First* na prática.
+        💡 <b>Experiencia:</b> Desenvolvedor Fullstack (JS/TS/React), Desenvolvedor Back-end (Luau,Lua,Python), Cibersegurança
       </p>
     </td>
     <td width="50%" align="center">
       <h3><b>🇺🇸 About Me</b></h3>
       <p>
         🎯 <b>Focus:</b> Information Security Analyst (Vulnerabilities, Incidents, Offensive/Defensive).<br><br>
-        💡 <b>Advantage:</b> Fullstack Developer (JS/TS/React) - *Security-First* implementation.
+        💡 <b>Experience:</b> Fullstack Developer (JS/TS/React), Back-end Developer (Luau,Lua,Python), Cybersecurity  .
       </p>
     </td>
   </tr>
